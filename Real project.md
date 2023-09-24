@@ -1,0 +1,1 @@
+This is the place where the project is going to be developed

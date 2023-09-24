@@ -1,1 +1,2 @@
-Inicio da aprendizagem do Git
+Start learning how to use Git
+This is a change
